@@ -1,1 +1,34 @@
+body{
+    background-color: rgb(115, 115, 252);
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-left: 0;
+    
 
+}
+    .cabecalho{
+        background-color: rgb(238, 199, 148);
+        color: rgb(50, 75, 90);
+        font-size: 27px;
+        margin-top: 0;
+        padding: 1px; text-align: center;
+    }
+
+    .principal{
+        background-color: rgb(203, 199, 199);
+        padding: 50px;
+        display: flex;
+        justify-content: center;
+    }
+    .dogmal{
+        width: 333px;
+        border-radius: 90%;
+    }
+    .rodape{
+        background-color: rgb(186, 186, 171);
+        color: rgb(50, 75, 90);
+        font-size: 27px;
+        margin-top: 0;
+        padding: 1px; text-align: center;
+    }
